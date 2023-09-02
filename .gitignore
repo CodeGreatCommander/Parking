@@ -1,0 +1,4 @@
+.env
+backend/database/Schema.js
+backend/node_modules
+
